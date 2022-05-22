@@ -22,8 +22,8 @@ You will get The victim :
 - **PC Username**
 - **Windows product key**
 - **Windows Version**
-- **Is vm**
-- **Histroy** 
+- **Is VM**
+- **History** 
 - **Screenshot**
 
 # ⚡・ Screenshots :
