@@ -29,7 +29,6 @@ You will get The victim :
 # ⚡・ Screenshots :
 
 ![image](https://user-images.githubusercontent.com/106032965/169712919-175557b1-6e2c-4501-bdc9-1d811dcd307d.png)
-![image](https://user-images.githubusercontent.com/106032965/169712924-eff5202e-8421-4173-b1d6-96ed8d1d77a9.png)
 ![image](https://user-images.githubusercontent.com/106032965/169712927-a7295b99-25a9-4d13-8a08-48b930ad91f8.png)
 ![image](https://user-images.githubusercontent.com/106032965/169712968-0f2ce157-81a6-4ae9-ba33-a2c6b9aa599f.png)
 
