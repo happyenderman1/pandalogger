@@ -1,2 +1,4 @@
 requests
-browser_history 
+browser_history
+threading
+pyautogui
